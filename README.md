@@ -1,1 +1,3 @@
-# learn-grid-the-easy-way
+Hosted Link
+>
+https://aditya7447.github.io/Grid-Template/
